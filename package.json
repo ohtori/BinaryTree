@@ -1,0 +1,21 @@
+{
+  "name": "binary-tree-ts",
+  "version": "1.0.0",
+  "description": "Binary tree data structure on typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "use": "node dist/index"
+  },
+  "author": "ohtori@mail.ru",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "jest": "^26.6.1",
+    "ts-jest": "^26.4.2",
+    "typescript": "^4.0.3"
+  }
+}
